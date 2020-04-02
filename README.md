@@ -6,7 +6,7 @@ This repository contains a python file which can create a password with given sp
 
 run the passwordGenerator.py in your shell with the command :
 
-> python passwordGenerator.py arg1 arg2 arg3 arg4 arg5 
+`python passwordGenerator.py arg1 arg2 arg3 arg4 arg5` 
 
 The arg values are :
 
